@@ -1,0 +1,11 @@
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\obj\Debug\netcoreapp2.0\WebDemoHangfire.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\obj\Debug\netcoreapp2.0\WebDemoHangfire.AssemblyInfoInputs.cache
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\obj\Debug\netcoreapp2.0\WebDemoHangfire.AssemblyInfo.cs
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\bin\Debug\netcoreapp2.0\WebDemoHangfire.deps.json
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\bin\Debug\netcoreapp2.0\WebDemoHangfire.runtimeconfig.json
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\bin\Debug\netcoreapp2.0\WebDemoHangfire.runtimeconfig.dev.json
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\bin\Debug\netcoreapp2.0\WebDemoHangfire.dll
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\bin\Debug\netcoreapp2.0\WebDemoHangfire.pdb
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\obj\Debug\netcoreapp2.0\WebDemoHangfire.dll
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\obj\Debug\netcoreapp2.0\WebDemoHangfire.pdb
+C:\Users\paulo.vieira\Downloads\WebDemoHangfire\WebDemoHangfire\obj\Debug\netcoreapp2.0\WebDemoHangfire.csprojAssemblyReference.cache
